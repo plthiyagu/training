@@ -10,4 +10,4 @@ training courses.
 We empower organisations to become more data-driven by providing first class
 software, skills, and advisory solutions.
 
-[ASI Data Science]: http://www.asidatascience.com/
+[ASI Data Science]: https://www.asidatascience.com/
